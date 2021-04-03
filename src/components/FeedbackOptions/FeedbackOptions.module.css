@@ -1,0 +1,17 @@
+.button {
+  border-radius: 4px;
+  padding: auto;
+  margin-right: 20px;
+  min-width: 100px;
+  height: 40px;
+  text-align: center;
+  border: 1px transparent;
+  color: #fff;
+  background-color: #507797;
+  border: #507797;
+  font-family: inherit;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 1.88;
+  letter-spacing: 0.06em;
+}
